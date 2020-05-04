@@ -3,8 +3,11 @@ layout: 发表论文
 title: 发表论文
 permalink: /about/
 ---
+
+
+
 <strong><a href="https://pubs.rsc.org/en/content/articlelanding/2017/cs/c7cs00053g#!divAbstract">1. Dye-sensitized lanthanide-doped upconversion nanoparticles, Chem. Soc. Rev., 2017,46, 4150-4167，第一作者</a></strong><br><br>
-<p style="text-align:justify"><i>Abstract: </i></p>
+
 <br>  
 <br>
 <br>
