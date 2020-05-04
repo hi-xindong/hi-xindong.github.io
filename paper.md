@@ -41,6 +41,4 @@ Woodhead Publishing Series in Biomaterials，2018, 143-175，第一作者</a></s
 
 <br>  
 <br>
-<br>
-#Download my <a href="https://www.dropbox.com/s/yzu33h38flxfkri/soto-cv.pdf?dl=0" download="Soto, Paul- CV">CV</a><br>
-<br>
+
