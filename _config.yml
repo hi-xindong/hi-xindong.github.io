@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: 王新栋
+name: 王新栋
+subtitle: 化学博士
+email: xdwang_chem@126.com
 description: >
-  Financial Economist
+  化学博士
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://hi-xindong.github.io/"
+github_username:  hi-xindong
+disqus_baseurl: "https://hi-xindong.github.io/"
+disqus_shortname: https-hi-xindong-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -26,14 +26,6 @@ defaults:
       path: ""
     values:
       author: "Paul E. Soto"
-
-
-
-# External gems
-gems:
-  - jekyll-paginate
-  - jemoji
-  - jekyll-seo-tag
 
 
 
