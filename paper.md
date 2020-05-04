@@ -1,7 +1,7 @@
 ---
 layout: 发表论文
 title: 发表论文
-permalink: /paper/
+permalink: /about/
 ---
 
 <p>  稀土纳米晶领域 </p>
