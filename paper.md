@@ -4,7 +4,7 @@ title: 发表论文
 permalink: /about/
 ---
 
-<br>  光学生化传感和成像 <br>
+<br>  <strong> 光学生化传感和成像 </strong> <br>
 
 <strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202210948"> Xindong Wang, Ji Fu, Chang Jiang, et al. Specific and Long-Term Luminescent Monitoring of Hydrogen Peroxide in Tumor Metastasis. Advanced Materials, 2023, 2210948.</a></strong><br><br>
 
@@ -24,7 +24,7 @@ permalink: /about/
 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S0925400514009332">	Xindong Wang, Yiying Yang, Jing Dong, et al. Lanthanum-functionalized gold nanoparticles for coordination-bonding recognition and colorimetric detection of methyl parathion with high sensitivity. Sensors and Actuators B: Chemical, 2014, 204(204): 119-124.</a></strong><br><br>
 
-<br>  电化学生物传感 <br>
+<br>  <strong> 电化学生物传感 </strong> <br>
 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S0925400513015414">	Xindong Wang, Laijun Wang, Wei Yang, et al. A multiple-promoted silver enhancement strategy in electrochemical detection of target virus. Sensors and Actuators B: Chemical, 2014, 194(194): 276-282.</a></strong><br><br>
 
