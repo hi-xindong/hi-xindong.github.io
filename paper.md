@@ -1,10 +1,19 @@
 ---
-layout: 发表论文
-title: 发表论文
+layout: 主持项目和发表论文
+title: 主持项目和发表论文
 permalink: /about/
 ---
+<br>  <strong> 主持项目——科学探索类 </strong> <br>
+<strong> 1、国家自然科学基金青年项目（上转换纳米晶与染料能量耦合机理的单颗粒研究），2024.1-2026.12，30万 </a></strong><br><br>
+<strong> 2、中国博士后站中特别资助项目（数据驱动的上转换纳米单颗粒到染料的能量传递机理研究），2023.9-2024.4，18万 </a></strong><br><br>
+<strong> 3、中国博士后面上项目（深部肿瘤活性氧实时灵敏光学监测技术研究），2022.9-2024.3，8万 </a></strong><br><br>
+<strong> 4、浙江省自然科学基金探索项目（单颗粒尺度研究稀土纳米传感器和乳腺癌单分子检测），2023.1-2025.12，10万 </a></strong><br><br>
+<strong> 5、浙江省博后择优资助项目（慢性呼吸系统疾病的快速高灵敏监测技术研究），2022.8-2024.3，5万 </a></strong><br><br>
+<strong> 6、中山大学高校基本科研业务费（上转换光学生物芯片研究和肿瘤单分子检测应用）， 2024.1-2024.12，5万 </a></strong><br><br>
 
-<br>  <strong> 光学生化传感和成像 </strong> <br>
+
+
+<br>  <strong> 论文——光学生化传感和成像 </strong> <br>
 
 <strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202210948"> Xindong Wang, Ji Fu, Chang Jiang, et al. Specific and Long-Term Luminescent Monitoring of Hydrogen Peroxide in Tumor Metastasis. Advanced Materials, 2023, 2210948.</a></strong><br><br>
 
@@ -24,7 +33,7 @@ permalink: /about/
 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S0925400514009332">	Xindong Wang, Yiying Yang, Jing Dong, et al. Lanthanum-functionalized gold nanoparticles for coordination-bonding recognition and colorimetric detection of methyl parathion with high sensitivity. Sensors and Actuators B: Chemical, 2014, 204(204): 119-124.</a></strong><br><br>
 
-<br>  <strong> 电化学生物传感 </strong> <br>
+<br>  <strong> 论文——电化学生物传感 </strong> <br>
 
 <strong><a href="https://www.sciencedirect.com/science/article/pii/S0925400513015414">	Xindong Wang, Laijun Wang, Wei Yang, et al. A multiple-promoted silver enhancement strategy in electrochemical detection of target virus. Sensors and Actuators B: Chemical, 2014, 194(194): 276-282.</a></strong><br><br>
 
